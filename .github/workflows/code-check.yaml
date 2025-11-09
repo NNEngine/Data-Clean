@@ -46,3 +46,9 @@ jobs:
         run: |
           echo "Testing imports..."
           python -c "import helper_functions, report_generation; print('✅ Import OK')"
+          
+      - name: 🧪 Run Unit Tests
+        run: |
+          echo "Running pytest..."
+          pytest -v --maxfail=1 --disable-warnings
+
