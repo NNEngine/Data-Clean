@@ -61,3 +61,10 @@ Then, upload the CSV File
 <img width="402" height="297" alt="image" src="https://github.com/user-attachments/assets/9e8f93aa-561a-48b8-9bc3-caa24c122fbd" />
 
 And Perform the Cleaning Operations Listed Above
+
+
+### Reort Generation
+
+After CLeaning the Data, You can generate the detailed interactive report of the data
+
+<img width="1226" height="395" alt="image" src="https://github.com/user-attachments/assets/be565a20-87a7-4a5a-a204-0155515d1c5e" />
