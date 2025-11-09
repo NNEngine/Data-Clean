@@ -23,7 +23,7 @@ def load_csv(name):
 
 
 def test_remove_duplicate_rows():
-    df = load_csv("duplicates.csv")
+    df = load_csv("AirQualityData.csv")
     original_rows = df.shape[0]
     cleaned_df, msg = remove_duplicate_rows(df)
     assert cleaned_df.shape[0] < original_rows
@@ -31,14 +31,14 @@ def test_remove_duplicate_rows():
 
 
 def test_drop_high_missing():
-    df = load_csv("missing_values.csv")
+    df = load_csv("HousingData.csv")
     cleaned_df, msg = drop_high_missing(df)
     assert isinstance(cleaned_df, pd.DataFrame)
     assert "dropped" in msg.lower() or "no columns" in msg.lower()
 
 
 def test_normalize_column_names():
-    df = load_csv("test1.csv")
+    df = load_csv("StudentPerformanceFactors.csv")
     cleaned_df, msg = normalize_column_names(df)
     assert all(col.islower() for col in cleaned_df.columns)
     assert all(" " not in col for col in cleaned_df.columns)
