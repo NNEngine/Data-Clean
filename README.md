@@ -56,10 +56,8 @@ Then, run
 pyhthon app.py
 ```
 
-Then upload the CSV File
+Then, upload the CSV File
 
 <img width="402" height="297" alt="image" src="https://github.com/user-attachments/assets/9e8f93aa-561a-48b8-9bc3-caa24c122fbd" />
 
-And Perform the Cleaning Operations
-
-
+And Perform the Cleaning Operations Listed Above
