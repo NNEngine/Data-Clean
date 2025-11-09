@@ -9,3 +9,27 @@
 
 **Solution**
 > That's exactly why I build this **CSV Data Cleaning App**. This tool helps you *clean your data* in few steps. All you need to do is to click on the button the operation you want to apply on the file.   After applying all the operations, you can download the final cleaned CSV File.
+
+---
+
+# 🧹 Clean Data Dashboard
+
+An interactive web-based tool built with **Gradio** for data cleaning, preprocessing, and profiling.  
+It helps ML engineers and data scientists clean messy datasets quickly — handling missing values, encoding, outliers, and generating detailed reports.
+
+---
+
+## 🚀 Features
+✅ Upload and preview CSV datasets  
+✅ Delete, rename, normalize columns  
+✅ Handle missing values (Mean, Median, Mode)  
+✅ Detect and remove duplicates  
+✅ Apply Label / Ordinal encoding  
+✅ Change column data types  
+✅ Outlier detection via IQR, Z-score, Winsorization, Min-Max  
+✅ Generate detailed `pandas-profiling` reports  
+✅ Download cleaned datasets  
+
+---
+
+## 🧩 Project Structure
