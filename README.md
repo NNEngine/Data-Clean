@@ -12,7 +12,7 @@
 
 ---
 
-# 🧹 Clean Data Dashboard
+#  Clean Data Dashboard
 
 An interactive web-based tool built with **Gradio** for data cleaning, preprocessing, and profiling.  
 It helps ML engineers and data scientists clean messy datasets quickly — handling missing values, encoding, outliers, and generating detailed reports.
@@ -32,4 +32,13 @@ It helps ML engineers and data scientists clean messy datasets quickly — handl
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
+- .devcontainer
+- .github/workflows/code-check.yaml
+- tests
+- helper_functions.py
+- report_generation.py
+- app.py
+- requirements.txt
+- README.md
+- LICENSE
