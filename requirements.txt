@@ -10,6 +10,6 @@ scikit-learn
 ydata-profiling
 
 # Standard Python utilities (already included with Python, listed for clarity)
-io
-tempfile
-os
+#io
+#tempfile
+#os
