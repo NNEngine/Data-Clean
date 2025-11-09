@@ -45,8 +45,8 @@ It helps ML engineers and data scientists clean messy datasets quickly — handl
 
 ---
 
-### How to run locally
-clone the repo
+## How to run locally
+Clone the repo
 ```python
 git clone https://github.com/NNEngine/Data-Clean.git
 ```
