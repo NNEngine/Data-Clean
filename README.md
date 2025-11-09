@@ -48,5 +48,18 @@ It helps ML engineers and data scientists clean messy datasets quickly — handl
 ### How to run locally
 clone the repo
 ```python
-git clone
+git clone https://github.com/NNEngine/Data-Clean.git
 ```
+
+Then, run
+```python
+pyhthon app.py
+```
+
+Then upload the CSV File
+
+<img width="402" height="297" alt="image" src="https://github.com/user-attachments/assets/9e8f93aa-561a-48b8-9bc3-caa24c122fbd" />
+
+And Perform the Cleaning Operations
+
+
