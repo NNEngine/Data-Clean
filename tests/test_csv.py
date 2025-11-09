@@ -1,5 +1,9 @@
 import os
 import pandas as pd
+
+# Add project root (one directory up) to Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from helper_functions import (
     remove_duplicate_rows,
     remove_duplicate_columns,
