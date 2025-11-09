@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import sys
 
 # Add project root (one directory up) to Python path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
