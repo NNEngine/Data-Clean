@@ -1,5 +1,15 @@
-streamlit>=1.20.0
-numpy>=1.24.0
-pandas>=1.5.0
-matplotlib>=3.7.0
-scikit-learn>=1.2.0
+# Core libraries
+pandas
+numpy
+gradio>=5.0.0
+
+# Machine Learning preprocessing tools
+scikit-learn
+
+# Optional but used for detailed data report generation
+ydata-profiling
+
+# Standard Python utilities (already included with Python, listed for clarity)
+io
+tempfile
+os
