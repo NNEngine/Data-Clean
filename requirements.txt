@@ -13,3 +13,5 @@ ydata-profiling
 #io
 #tempfile
 #os
+# For testing
+pytest
