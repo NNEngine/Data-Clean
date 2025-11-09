@@ -1,6 +1,7 @@
 # <div align = "center">Data Clean</div>
 
-![2807765_18140](https://github.com/user-attachments/assets/09ca0184-f359-49b2-89aa-3bccaf0ad43e)
+
+https://github.com/user-attachments/assets/d6c59b1a-e31c-4d54-9117-42aaf21313f0
 
 **Problem**
 
@@ -18,6 +19,8 @@
 ---
 
 #  Clean Data Dashboard
+
+![2807765_18140](https://github.com/user-attachments/assets/09ca0184-f359-49b2-89aa-3bccaf0ad43e)
 
 An interactive web-based tool built with **Gradio** for data cleaning, preprocessing, and profiling.  
 It helps ML engineers and data scientists clean messy datasets quickly — handling missing values, encoding, outliers, and generating detailed reports.
