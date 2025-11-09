@@ -42,3 +42,11 @@ It helps ML engineers and data scientists clean messy datasets quickly — handl
 - requirements.txt
 - README.md
 - LICENSE
+
+---
+
+### How to run locally
+clone the repo
+```python
+git clone
+```
